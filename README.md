@@ -1,2 +1,2 @@
-# 42_Exerc-cios
-Alguns Exercícios da 42 Luanda
+# Roadmap sh
+Alguns Exercícios
